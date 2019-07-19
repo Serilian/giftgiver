@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app component renders correctly 1`] = `
+"<div>
+  <h2>
+    Gift Giver
+  </h2>
+  <div className=\\"gift-list\\" />
+  <Button variant=\\"primary\\" className=\\"btn-add\\" onClick={[Function]} active={false} disabled={false} type=\\"button\\">
+    Add gift
+  </Button>
+</div>"
+`;
